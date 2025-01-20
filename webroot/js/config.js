@@ -1,15 +1,15 @@
 //Some of the settings may or may not work as this is not a fully completed update. Mainly Appearance settings and weather variables that arent finished.
 //Input API Keys below. If no API is inputted, sim will default to no report.
-var api_key = '';
-var map_key = '';
+var api_key = 'e1f10a1e78da46f5b10a1e78da96f525';
+var map_key = 'pk.eyJ1Ijoiam9lbW9saW5lbGxpIiwiYSI6ImNscXd1a29idDA3MjcyaW10MjBrazN0Ym8ifQ.2c81zLP6d1LTi1Y0TMYejQ';
 
 //Apperance settings. Fields left blank will use defaults. Will only refresh upon reload.
 var apperanceSettings = {
-  iconSet:"2010", //2007 or 2010
+  iconSet:"2007", //2007 or 2010
   serialNumber:"",// Ex. "TWCS02983932"
   headinID:"", // Ex. "0298393223"
   affilateName:"Jesse Weather Net.",// Ex. "Comcast"
-  logoURL:"", //image size must be 879*184px or similar aspect ratio.
+  logoURL:"jesseweathernet.png", //image size must be 879*184px or similar aspect ratio.
   corebackgroud:"oceans", //forest, mountain, city, buildings, neighborhood, southwest, ocean. Default is buildings.
   backgroudType:"",//Set to
   backgroudURL:"",//If background type set to "custom" will use this url. URL can be a website or local file path.
