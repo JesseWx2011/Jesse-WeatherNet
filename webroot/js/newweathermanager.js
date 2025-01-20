@@ -361,8 +361,8 @@ var weatherInfo = { currentCond: {
     {day:"",time:"",index:"",desc:""},
     {day:"",time:"",index:"",desc:""}
   ]}, airport: {noReport: false, mainairports:[
-    {displayname:"",iata:"MIA",arrivals:{delay:"No Delay",reason:""},departures:{delay:"No Delay",reason:""},temp:"",cond:"",icon:"",windspeed:""},
-    {displayname:"",iata:"MCO",arrivals:{delay:"No Delay",reason:""},departures:{delay:"No Delay",reason:""},temp:"",cond:"",icon:"",windspeed:""}
+    {displayname:"",iata:"PNS",arrivals:{delay:"No Delay",reason:""},departures:{delay:"No Delay",reason:""},temp:"",cond:"",icon:"",windspeed:""},
+    {displayname:"",iata:"VPS",arrivals:{delay:"No Delay",reason:""},departures:{delay:"No Delay",reason:""},temp:"",cond:"",icon:"",windspeed:""}
   ], delays: [],
     //{iato:"",type:"",amount:"",amountmin:"",reason:""}
    otherairports:[
